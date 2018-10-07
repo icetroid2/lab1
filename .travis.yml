@@ -11,3 +11,4 @@ deploy:
   on:
     repo: icetroid2/lab1
 script: pytest
+
