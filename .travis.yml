@@ -8,6 +8,6 @@ deploy:
   api_key:
     secure: h1X4ZHBN5gkd4tXRFDBJHjPaTTpVSolwnxJWRvDrFhnTA3+ZauisIBsGRrcFbF9oevLl9ohzIMvAQCAAdeUZExWpXENqAPxuS3MPthCCCxvT5iowmtMBQuIsV2nMpmEWZx0WNTgQHEuvM+ldGz9fm7KTIJTh68nc37v1GvZm9P+iDQs5TCiCNOB1QO3a0PHODbyBdJQTnKWgk3WACiLtTbl2+dt+zQvUnsYXxL97Phwl4ewZBLiKG4kS/b+91NohepAFNmRcBYwLJ1oI+Ssx9c74f6yxKAr3QCNBJBCzFUQbPKTiJzZdmTvMAy2HSXPH+gh/TjFNdgEHb9+3zR+I5W18nugOaaKy3AEO5ZivYf+/wIRuEeEyl3DoZW2/Chgx2GBLmYlJ3Vw5SdIKMEog+Hr1JPZaebWgilvTLoYFRQngZuSR2MsIxQliOEXDL4iTpBr44F6W1dMKjctrHY6x11Cw4rSBh9TaUvwPFjBw17pZ+svDnpHB7aelbPgoKMoOl1f2zJfO+T28bNjI+5khhnKqJ7NfYi3tLllce/Y3gh389jU7nPXoKEvP3OEpALmaTue/Q9VVcqNRJi4UfSpfmgZxSEp1TkAaeZmsDxDJnasBXIEYCbuBhGxpvyAhY2Yt5dQqes1wKoLlMpGS+aek2JURmZfgEbIzEnLJA1H2dc4=
   app: hoangmovielist
-    on:
-      repo: icetroid2/lab1
+  on:
+    repo: icetroid2/lab1
 script: pytest
